@@ -16,4 +16,4 @@ print(f"Shape da matriz: {arr2.shape}")
 print(f"Número de elementos: {arr2.size}")
 print (f"Tipo dos elementos: {arr2.dtype}")
 
-print('trabalhando na dvelop')
+print('Trabalhando na dvelop')
